@@ -10,7 +10,6 @@ public class Main {
     double grade = 87.5;
     double amount = 50.0;
     String hello = "world";
-    if (amount <= hiVal && amount >= loVal)
     /*
         Expression	                            Result
         yes == no || grade > amount             True
